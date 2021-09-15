@@ -2,11 +2,13 @@
 
 an api endpoint that rezervation train tickets
 
+You can reach swagger at https://ada-homework-demo.herokuapp.com/swagger/index.html and send the request from there too.
+
 ## Action
 
-
+- https://ada-homework-demo.herokuapp.com/api/Train OR 
 - localhost:5000/api/Train 
-  > This Http Post action returns rezervation info based on input
+  > This <u> HttpPost </u> action returns rezervation info based on input
 
 ## Example Input
 
